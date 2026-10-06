@@ -9,7 +9,7 @@ import android.content.Intent
 import android.net.Uri
 import android.os.Build
 import androidx.core.app.NotificationCompat
-import com.whatsschedule.app.MainActivity
+import com.whatsschedule.app.ui.MainActivity
 import com.whatsschedule.app.R
 import com.whatsschedule.app.data.ScheduleRepository
 import com.whatsschedule.app.model.Schedule
