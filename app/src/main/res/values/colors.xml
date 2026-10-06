@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary – emerald (WhatsApp brand family) -->
+    <color name="emerald600">#059669</color>
+    <color name="emerald500">#10B981</color>
+    <color name="emerald400">#34D399</color>
+    <color name="emerald100">#D1FAE5</color>
+    <color name="emerald50">#ECFDF5</color>
+
+    <!-- Surfaces – slate -->
+    <color name="slate900">#0F172A</color>
+    <color name="slate800">#1E293B</color>
+    <color name="slate700">#334155</color>
+    <color name="slate600">#475569</color>
+    <color name="slate500">#64748B</color>
+    <color name="slate400">#94A3B8</color>
+    <color name="slate300">#CBD5E1</color>
+    <color name="slate200">#E2E8F0</color>
+    <color name="slate100">#F1F5F9</color>
+    <color name="slate50">#F8FAFC</color>
+
+    <!-- Accents -->
+    <color name="amber500">#F59E0B</color>
+    <color name="amber100">#FEF3C7</color>
+    <color name="amber700">#B45309</color>
+    <color name="red400">#F87171</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>

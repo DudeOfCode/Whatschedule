@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WhatsSchedule Pro</string>
+    <string name="service_active">Service Active</string>
+    <string name="new_scheduled_message">New Scheduled Message</string>
+    <string name="scheduled_queue">Scheduled Queue</string>
+    <string name="execution_log">Execution Log</string>
+    <string name="empty_queue">No messages scheduled yet.</string>
+    <string name="add_schedule">Add Schedule</string>
+</resources>
